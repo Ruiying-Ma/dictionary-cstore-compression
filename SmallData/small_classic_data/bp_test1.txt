@@ -1,0 +1,31 @@
+
+data_0.txt	ndv = 3.000000	purity = 0.780000	variance = 2.357023	entropy = 1.500000	kurtosis = 8.333333	read_data_time = 0.000370	compute_time = 0.000037	total_time = 0.000407
+	Opt/Freq = 1.000000		Freq/Rand = 0.966667
+data_1.txt	ndv = 7.000000	purity = 0.350000	variance = 2.849991	entropy = 2.669824	kurtosis = 10.823608	read_data_time = 0.000496	compute_time = 0.000045	total_time = 0.000541
+	Opt/Freq = 1.000000		Freq/Rand = 1.000000
+data_2.txt	ndv = 3.000000	purity = 0.640000	variance = 2.357023	entropy = 1.521928	kurtosis = 8.333333	read_data_time = 0.000830	compute_time = 0.000032	total_time = 0.000862
+	Opt/Freq = 1.000000		Freq/Rand = 1.000000
+data_3.txt	ndv = 2.000000	purity = 0.990000	variance = 4.500000	entropy = 0.439497	kurtosis = 20.250000	read_data_time = 0.000764	compute_time = 0.000021	total_time = 0.000785
+	Opt/Freq = 1.000000		Freq/Rand = 0.700000
+data_4.txt	ndv = 3.000000	purity = 0.950000	variance = 3.858612	entropy = 1.094914	kurtosis = 22.333333	read_data_time = 0.000388	compute_time = 0.000039	total_time = 0.000427
+	Opt/Freq = 1.000000		Freq/Rand = 1.000000
+data_6.txt	ndv = 3.000000	purity = 0.940000	variance = 2.449490	entropy = 1.280672	kurtosis = 9.000000	read_data_time = 0.000283	compute_time = 0.000015	total_time = 0.000298
+	Opt/Freq = 1.000000		Freq/Rand = 0.888889
+data_7.txt	ndv = 2.000000	purity = 0.990000	variance = 4.500000	entropy = 0.439497	kurtosis = 20.250000	read_data_time = 0.000235	compute_time = 0.000019	total_time = 0.000254
+	Opt/Freq = 1.000000		Freq/Rand = 1.000000
+data_8.txt	ndv = 4.000000	purity = 0.960000	variance = 3.897114	entropy = 1.145110	kurtosis = 35.437500	read_data_time = 0.000328	compute_time = 0.000030	total_time = 0.000358
+	Opt/Freq = 1.000000		Freq/Rand = 1.000000
+data_10.txt	ndv = 3.000000	purity = 0.740000	variance = 1.632993	entropy = 1.554585	kurtosis = 4.000000	read_data_time = 0.000083	compute_time = 0.000012	total_time = 0.000095
+	Opt/Freq = 1.000000		Freq/Rand = 0.933333
+data_18.txt	ndv = 3.000000	purity = 0.750000	variance = 1.247219	entropy = 1.558872	kurtosis = 2.333333	read_data_time = 0.000151	compute_time = 0.000013	total_time = 0.000164
+	Opt/Freq = 0.933333		Freq/Rand = 1.000000
+data_21.txt	ndv = 3.000000	purity = 0.930000	variance = 0.471405	entropy = 1.577406	kurtosis = 0.333333	read_data_time = 0.000095	compute_time = 0.000012	total_time = 0.000107
+	Opt/Freq = 0.964286		Freq/Rand = 1.000000
+data_24.txt	ndv = 9.000000	purity = 0.330000	variance = 3.333333	entropy = 2.883431	kurtosis = 17.320000	read_data_time = 0.000144	compute_time = 0.000023	total_time = 0.000167
+	Opt/Freq = 1.000000		Freq/Rand = 0.840000
+data_27.txt	ndv = 8.000000	purity = 0.290000	variance = 2.619041	entropy = 2.883226	kurtosis = 10.982239	read_data_time = 0.000169	compute_time = 0.000022	total_time = 0.000191
+	Opt/Freq = 1.000000		Freq/Rand = 0.895833
+data_28.txt	ndv = 2.000000	purity = 1.000000	variance = 1.000000	entropy = 0.970951	kurtosis = 1.000000	read_data_time = 0.000083	compute_time = 0.000010	total_time = 0.000093
+	Opt/Freq = 1.000000		Freq/Rand = 0.923077
+data_29.txt	ndv = 3.000000	purity = 0.480000	variance = 0.000000	entropy = 1.584963	kurtosis = -nan	read_data_time = 0.000085	compute_time = 0.000015	total_time = 0.000100
+	Opt/Freq = 1.000000		Freq/Rand = 1.000000

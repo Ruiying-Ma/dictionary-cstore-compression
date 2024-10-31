@@ -1,0 +1,17 @@
+
+data_0.txt	ndv = 0.536900	Pair/Rand = 0.967530	Front/Rand = 1.041799	read_data_time = 0.573259	compute_pair_freq_time = 0.985942	total_pair_freq_time = 1.559201
+data_1.txt	ndv = 4.654300	Pair/Rand = 0.957833	Front/Rand = 1.025696	read_data_time = 2.294249	compute_pair_freq_time = 67.353127	total_pair_freq_time = 69.647376
+data_2.txt	ndv = 0.127500	Pair/Rand = 0.800632	Front/Rand = 1.051137	read_data_time = 0.292176	compute_pair_freq_time = 0.069613	total_pair_freq_time = 0.361789
+data_3.txt	ndv = 0.000300	Pair/Rand = 0.627989	Front/Rand = 1.068270	read_data_time = 0.146304	compute_pair_freq_time = 0.000651	total_pair_freq_time = 0.146955
+data_4.txt	ndv = 0.000300	Pair/Rand = 0.628211	Front/Rand = 1.170043	read_data_time = 0.148807	compute_pair_freq_time = 0.000647	total_pair_freq_time = 0.149454
+data_6.txt	ndv = 0.000300	Pair/Rand = 0.853882	Front/Rand = 1.076075	read_data_time = 0.166451	compute_pair_freq_time = 0.000700	total_pair_freq_time = 0.167151
+data_7.txt	ndv = 0.000200	Pair/Rand = 1.000000	Front/Rand = 1.000000	read_data_time = 0.171083	compute_pair_freq_time = 0.000416	total_pair_freq_time = 0.171499
+data_8.txt	ndv = 0.919500	Pair/Rand = 0.109727	Front/Rand = 0.178169	read_data_time = 0.209724	compute_pair_freq_time = 2.558553	total_pair_freq_time = 2.768277
+data_10.txt	ndv = 0.898600	Pair/Rand = 0.969993	Front/Rand = 1.061126	read_data_time = 0.719742	compute_pair_freq_time = 3.226193	total_pair_freq_time = 3.945935
+data_13.txt	ndv = 1.000100	Pair/Rand = 0.969780	Front/Rand = 1.046640	read_data_time = 1.065785	compute_pair_freq_time = 4.308315	total_pair_freq_time = 5.374100
+data_16.txt	ndv = 1.000000	Pair/Rand = 0.202146	Front/Rand = 0.258502	read_data_time = 0.536848	compute_pair_freq_time = 3.194302	total_pair_freq_time = 3.731150
+data_18.txt	ndv = 0.049900	Pair/Rand = 1.000141	Front/Rand = 1.000069	read_data_time = 0.159578	compute_pair_freq_time = 0.008732	total_pair_freq_time = 0.168310
+data_21.txt	ndv = 0.000400	Pair/Rand = 1.000041	Front/Rand = 0.999976	read_data_time = 0.172748	compute_pair_freq_time = 0.000744	total_pair_freq_time = 0.173492
+data_27.txt	ndv = 5.044800	Pair/Rand = 0.965696	Front/Rand = 1.018167	read_data_time = 3.054738	compute_pair_freq_time = 79.237437	total_pair_freq_time = 82.292175
+data_28.txt	ndv = 0.000300	Pair/Rand = 0.802001	Front/Rand = 0.806563	read_data_time = 0.157533	compute_pair_freq_time = 0.000552	total_pair_freq_time = 0.158085
+data_29.txt	ndv = 0.001600	Pair/Rand = 1.000027	Front/Rand = 0.999929	read_data_time = 0.263071	compute_pair_freq_time = 0.004360	total_pair_freq_time = 0.267431

@@ -1,0 +1,20 @@
+
+data_0.txt	ndv = 0.440200	Pair/Rand = 0.957540	Front/Rand = 1.063639	read_data_time = 0.591254	compute_pair_freq_time = 0.991713	total_pair_freq_time = 1.582967
+data_1.txt	ndv = 0.031300	Pair/Rand = 0.974743	Front/Rand = 1.028526	read_data_time = 1.464311	compute_pair_freq_time = 0.514065	total_pair_freq_time = 1.978376
+data_3.txt	ndv = 0.622100	Pair/Rand = 1.000257	Front/Rand = 0.999752	read_data_time = 0.491846	compute_pair_freq_time = 1.910877	total_pair_freq_time = 2.402723
+data_4.txt	ndv = 0.001100	Pair/Rand = 0.945460	Front/Rand = 1.003584	read_data_time = 0.277755	compute_pair_freq_time = 0.002534	total_pair_freq_time = 0.280289
+data_5.txt	ndv = 0.000300	Pair/Rand = 0.987640	Front/Rand = 1.001383	read_data_time = 0.196265	compute_pair_freq_time = 0.000994	total_pair_freq_time = 0.197259
+data_6.txt	ndv = 0.000100	Pair/Rand = 1.000000	Front/Rand = 1.000000	read_data_time = 0.172817	compute_pair_freq_time = 0.000387	total_pair_freq_time = 0.173204
+data_7.txt	ndv = 0.000300	Pair/Rand = 1.000002	Front/Rand = 1.000000	read_data_time = 0.162505	compute_pair_freq_time = 0.000543	total_pair_freq_time = 0.163048
+data_9.txt	ndv = 0.037100	Pair/Rand = 0.943663	Front/Rand = 1.057153	read_data_time = 1.158795	compute_pair_freq_time = 0.202319	total_pair_freq_time = 1.361114
+data_12.txt	ndv = 0.048600	Pair/Rand = 0.966166	Front/Rand = 1.002700	read_data_time = 1.508958	compute_pair_freq_time = 0.345922	total_pair_freq_time = 1.854880
+data_13.txt	ndv = 0.000400	Pair/Rand = 0.893205	Front/Rand = 0.910661	read_data_time = 0.489472	compute_pair_freq_time = 0.001221	total_pair_freq_time = 0.490693
+data_14.txt	ndv = 0.000400	Pair/Rand = 0.965679	Front/Rand = 0.967411	read_data_time = 0.386612	compute_pair_freq_time = 0.002484	total_pair_freq_time = 0.389096
+data_15.txt	ndv = 0.060600	Pair/Rand = 0.979564	Front/Rand = 1.021372	read_data_time = 0.632183	compute_pair_freq_time = 0.142187	total_pair_freq_time = 0.774370
+data_17.txt	ndv = 0.004100	Pair/Rand = 0.970647	Front/Rand = 1.013285	read_data_time = 0.626965	compute_pair_freq_time = 0.015596	total_pair_freq_time = 0.642561
+data_18.txt	ndv = 0.002400	Pair/Rand = 0.941142	Front/Rand = 1.012255	read_data_time = 0.514328	compute_pair_freq_time = 0.026519	total_pair_freq_time = 0.540847
+data_20.txt	ndv = 0.220000	Pair/Rand = 0.961708	Front/Rand = 1.036908	read_data_time = 0.445212	compute_pair_freq_time = 0.388410	total_pair_freq_time = 0.833622
+data_22.txt	ndv = 0.005100	Pair/Rand = 0.939323	Front/Rand = 1.035335	read_data_time = 0.541593	compute_pair_freq_time = 0.016789	total_pair_freq_time = 0.558382
+data_23.txt	ndv = 0.388900	Pair/Rand = 0.924454	Front/Rand = 1.011877	read_data_time = 0.507687	compute_pair_freq_time = 0.813918	total_pair_freq_time = 1.321605
+data_26.txt	ndv = 2.182900	Pair/Rand = 0.984750	Front/Rand = 1.037721	read_data_time = 4.747280	compute_pair_freq_time = 28.920451	total_pair_freq_time = 33.667731
+data_27.txt	ndv = 0.009900	Pair/Rand = 0.913558	Front/Rand = 1.015915	read_data_time = 0.702418	compute_pair_freq_time = 0.092083	total_pair_freq_time = 0.794501

@@ -1,0 +1,26 @@
+
+data_0.txt	ndv = 0.536900	Pair/Rand = 0.990364	Front/Rand = 1.005655	read_data_time = 0.705154	compute_pair_freq_time = 0.285539	total_pair_freq_time = 0.990693
+data_1.txt	ndv = 4.654300	Pair/Rand = 1.000009	Front/Rand = 0.999638	read_data_time = 2.411804	compute_pair_freq_time = 3.902106	total_pair_freq_time = 6.313910
+data_2.txt	ndv = 0.127500	Pair/Rand = 0.800800	Front/Rand = 1.029874	read_data_time = 0.401839	compute_pair_freq_time = 0.048613	total_pair_freq_time = 0.450452
+data_3.txt	ndv = 0.000300	Pair/Rand = 0.886020	Front/Rand = 1.180060	read_data_time = 0.151351	compute_pair_freq_time = 0.000526	total_pair_freq_time = 0.151877
+data_4.txt	ndv = 0.000300	Pair/Rand = 0.997667	Front/Rand = 1.003370	read_data_time = 0.172251	compute_pair_freq_time = 0.000795	total_pair_freq_time = 0.173046
+data_5.txt	ndv = 14.521400	Pair/Rand = 1.001334	Front/Rand = 1.004527	read_data_time = 1.246210	compute_pair_freq_time = 5.539672	total_pair_freq_time = 6.785882
+data_6.txt	ndv = 0.000300	Pair/Rand = 0.999884	Front/Rand = 0.999884	read_data_time = 0.177239	compute_pair_freq_time = 0.000841	total_pair_freq_time = 0.178080
+data_7.txt	ndv = 0.000200	Pair/Rand = 0.999850	Front/Rand = 0.999850	read_data_time = 0.177992	compute_pair_freq_time = 0.000170	total_pair_freq_time = 0.178162
+data_8.txt	ndv = 0.919500	Pair/Rand = 0.178373	Front/Rand = 0.234201	read_data_time = 0.250504	compute_pair_freq_time = 0.128461	total_pair_freq_time = 0.378965
+data_9.txt	ndv = 38.030200	Pair/Rand = 1.000005	Front/Rand = 0.999710	read_data_time = 3.586615	compute_pair_freq_time = 18.935317	total_pair_freq_time = 22.521932
+data_10.txt	ndv = 0.898600	Pair/Rand = 0.964490	Front/Rand = 1.024541	read_data_time = 0.745216	compute_pair_freq_time = 0.421687	total_pair_freq_time = 1.166903
+data_11.txt	ndv = 11.208600	Pair/Rand = 0.994231	Front/Rand = 0.999460	read_data_time = 2.506455	compute_pair_freq_time = 8.306052	total_pair_freq_time = 10.812507
+data_13.txt	ndv = 1.000100	Pair/Rand = 0.997846	Front/Rand = 0.998569	read_data_time = 1.148416	compute_pair_freq_time = 1.054612	total_pair_freq_time = 2.203028
+data_15.txt	ndv = 10.271500	Pair/Rand = 1.000005	Front/Rand = 0.999518	read_data_time = 2.529628	compute_pair_freq_time = 6.666008	total_pair_freq_time = 9.195636
+data_16.txt	ndv = 1.000000	Pair/Rand = 0.304313	Front/Rand = 0.307960	read_data_time = 0.748491	compute_pair_freq_time = 0.511463	total_pair_freq_time = 1.259954
+data_18.txt	ndv = 0.049900	Pair/Rand = 0.867683	Front/Rand = 0.933928	read_data_time = 0.163910	compute_pair_freq_time = 0.002575	total_pair_freq_time = 0.166485
+data_19.txt	ndv = 22.179300	Pair/Rand = 0.986649	Front/Rand = 0.999612	read_data_time = 3.758215	compute_pair_freq_time = 21.834171	total_pair_freq_time = 25.592386
+data_21.txt	ndv = 0.000400	Pair/Rand = 0.988687	Front/Rand = 1.038732	read_data_time = 0.154002	compute_pair_freq_time = 0.000703	total_pair_freq_time = 0.154705
+data_22.txt	ndv = 20.373900	Pair/Rand = 1.000000	Front/Rand = 0.999665	read_data_time = 3.461089	compute_pair_freq_time = 8.189615	total_pair_freq_time = 11.650704
+data_24.txt	ndv = 6.698500	Pair/Rand = 0.986718	Front/Rand = 1.034067	read_data_time = 3.947944	compute_pair_freq_time = 5.643940	total_pair_freq_time = 9.591884
+data_25.txt	ndv = 29.509900	Pair/Rand = 0.999508	Front/Rand = 0.999676	read_data_time = 4.664248	compute_pair_freq_time = 86.966608	total_pair_freq_time = 91.630856
+data_26.txt	ndv = 30.555800	Pair/Rand = 1.000004	Front/Rand = 0.999658	read_data_time = 3.597312	compute_pair_freq_time = 26.649418	total_pair_freq_time = 30.246730
+data_27.txt	ndv = 5.044800	Pair/Rand = 0.999998	Front/Rand = 0.999618	read_data_time = 3.396848	compute_pair_freq_time = 4.366635	total_pair_freq_time = 7.763483
+data_28.txt	ndv = 0.000300	Pair/Rand = 0.895002	Front/Rand = 0.895002	read_data_time = 0.151324	compute_pair_freq_time = 0.000433	total_pair_freq_time = 0.151757
+data_29.txt	ndv = 0.001600	Pair/Rand = 1.000010	Front/Rand = 0.999925	read_data_time = 0.530531	compute_pair_freq_time = 0.051515	total_pair_freq_time = 0.582046
